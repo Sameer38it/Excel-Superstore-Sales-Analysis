@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 This project presents an interactive Excel Sales Dashboard built for analyzing key retail metrics across different regions, customer segments, product categories, and sales trends from 2014 to 2017.
 ## 🖼️ Dashboard Preview
-![Super Store Sales Dashboard](assets/dashboard_preview.png)
+![Super Store Sales Dashboard](dashboard_preview.png.PNG)
 
 ## 📈 Key Metrics (KPIs)
 * **Total Sales**: $382,816
